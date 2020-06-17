@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/kittengineering/ArduinoCore-stm32l0/archive/0.1.0.tar.gz",
           "archiveFileName": "ArduinoCore-stm32l0-0.1.0.tar.gz",
-          "checksum": "MD5:eecfd6198fa454b6dbc3149b2eebec3f",
-          "size": "9758702",
+          "checksum": "MD5:5a4fdec35ed20026f850bb0e532bfd3e",
+          "size": "10257699",
           "boards": [
             {"name": "B-L072Z-LRWAN1"}
           ],
