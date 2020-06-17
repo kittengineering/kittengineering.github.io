@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "TleraCorp / KITT Engineering",
+      "name": "kittengineering",
       "maintainer": "KITT Engineering",
       "websiteURL": "https://github.com/kittengineering/ArduinoCore-stm32l0",
       "email": "software@kitt.nl",
