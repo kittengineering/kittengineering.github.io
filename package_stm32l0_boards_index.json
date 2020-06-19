@@ -32,12 +32,12 @@
        {
           "name": "KITT Engineering STM32L0 Boards",
           "architecture": "stm32l0",
-          "version": "0.2.0",
+          "version": "0.2.1",
           "category": "Contributed",
-          "url": "https://github.com/kittengineering/ArduinoCore-stm32l0/archive/0.2.0.tar.gz",
-          "archiveFileName": "ArduinoCore-stm32l0-0.2.0.tar.gz",
-          "checksum": "MD5:e715e17d98ab226999e106e1ff60a194",
-          "size": "9741531",
+          "url": "https://github.com/kittengineering/ArduinoCore-stm32l0/archive/0.2.1.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-0.2.1.tar.gz",
+          "checksum": "MD5:077122f1a80a6775ed9c3c2e6972c8d6",
+          "size": "(9741547",
           "boards": [
             {"name": "B-L072Z-LRWAN1"}
           ],
