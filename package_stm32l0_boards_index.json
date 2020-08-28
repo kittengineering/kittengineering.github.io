@@ -48,6 +48,26 @@
               "version": ""
             }
           ]
+        },
+       {
+          "name": "KITT Engineering STM32L0 Boards",
+          "architecture": "stm32l0",
+          "version": "0.3.0",
+          "category": "Contributed",
+          "url": "https://github.com/kittengineering/ArduinoCore-stm32l0/archive/0.3.0.tar.gz",
+          "archiveFileName": "ArduinoCore-stm32l0-0.3.0.tar.gz",
+          "checksum": "MD5:C20F7020150606800DAE8182A090F433",
+          "size": "9742385",
+          "boards": [
+            {"name": "B-L072Z-LRWAN1"},{"name": "MJS2020-PROTO1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": ""
+            }
+          ]
         }
 
 
